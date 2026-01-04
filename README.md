@@ -1,5 +1,5 @@
 # 💫 About Me:
-**Full Stack / Backend Developer | Secure Systems | Data-Driven Applications**<br><br>I am a software developer with **3.5+ years of professional experience** building secure, scalable, and production-ready web systems.  <br>I have worked on **military-grade applications**, **EU medical platforms**, and **real-time monitoring systems**, with a strong focus on backend architecture, system security, and data integrity.<br><br>Currently, I am pursuing a **Master’s degree in Data Science at TU Wien**, while working as a **Backend Developer in Austria**.<br>
+**Full Stack / Backend Developer | Secure Systems | Data-Driven Applications**<br><br>I am a software developer with **5+ years of professional experience** building secure, scalable, and production-ready web systems.  <br>I have worked on **military-grade applications**, **EU medical platforms**, and **real-time monitoring systems**, with a strong focus on backend architecture, system security, and data integrity.<br><br>Currently, I am pursuing a **Master’s degree in Data Science at TU Wien**, while working as a **Backend Developer in Austria**.<br>
 
 
 ## 🌐 Socials:
